@@ -1,0 +1,3 @@
+All data is not 100% accurate and may not reflect 100% of the Netflix library at present. 
+
+Searchablelist.com & This Repo is not endorsed, moderated, owned by or affiliated with Netflix or any of its partners in any capacity. The authors of this site also have no affiliation with Netflix. Searchablelist.com & This Repo is a unofficial fansite and repo and database API for Netflix. All promotional material including but not limited to trailers, images and videos are all copyright to their respective owners. Netflix is a registered trademark of Netflix, Inc. All Rights Reserved.

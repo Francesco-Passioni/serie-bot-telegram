@@ -1,0 +1,60 @@
+
+{
+  "application" : {
+    "name" : "Netflix Categories",
+    "app_id" : "netflix-categories@deekshith.in",
+    "version" : "v0.1"
+  },
+  "search_engines" : [
+    {
+      "category": "NetflixCategories",
+      "name": "Action",
+      "films": ["S.W.A.T.","Teen Wolf","Cobra Kai","Vikings","Regina del Sud","The Last Kingdom","Outer Banks","The 100"],
+      "api": "http://www.netflix.com/browse/genre/1365",
+      "pinned": true,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Comedy",
+      "films": ["The Office (U.S.)", "Brooklyn Nine-Nine", "Orange Is the New Black", "The Bold Type", "Superstore", "Z Nation", "The Good Place", "Good Girls"],
+      "api": "http://www.netflix.com/browse/genre/43040",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Fantasy",
+      "films": ["The Vampire Diaries","Lucifer","Manifest","Stranger Things","The 100","The Witcher","Jurassic World: Nuove avventure","Shadowhunters: The Mortal Instruments"],
+      "api": "http://www.netflix.com/browse/genre/1568",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name": "Thrillers",
+      "films": ["Narcos","Le regole del delitto perfetto","Mr. Robot","Designated Survivor","You","Le 7 vite di Léa","Nero a metà","Dark"],
+      "api": "http://www.netflix.com/browse/genre/43048",
+      "pinned": false,
+      "last_used":0
+    },
+    {
+      "category": "NetflixCategories",
+      "name":"Drammatico",
+      "films": ["Bridgerton","The Vampire Diaries","Pretty Little Liars","Elite","Pálpito","Better Call Saul","Teen Wolf","Breaking Bad"],
+      "api": "http://www.netflix.com/browse/genre/43049",
+      "pinned": false,
+      "last_used":0
+    }
+  ],
+  "user_preferences" : {
+    "version" : "0.1",
+    "extension_enable": true,
+    "privacy" : {
+      "collect_stats" : false
+    }
+  },
+  "user_data": {
+    "last_search_input": ""
+  }
+}
